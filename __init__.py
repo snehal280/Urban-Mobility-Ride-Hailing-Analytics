@@ -1,1 +1,1 @@
-"""Forecasting model modules."""
+"""Urban Mobility Analytics - Source Package"""
